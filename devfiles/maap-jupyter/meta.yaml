@@ -4,4 +4,4 @@ tags: ["Jupyter", "Maap"]
 icon: /images/Jupyter_logo.svg
 globalMemoryLimit: 4096Mi
 links:
-  v2: https://github.com/igabriel85/maap-python3
+  v2: https://github.com/igabriel85/maap-python3/tree/main
