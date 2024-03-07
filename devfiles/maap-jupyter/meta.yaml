@@ -1,0 +1,7 @@
+displayName: MAAP Python 3.10.5
+description: Python 3.10.5 sample MAAP using vanilla environment
+tags: ["Jupyter", "Maap"]
+icon: /images/Jupyter_logo.svg
+globalMemoryLimit: 4096Mi
+links:
+  v2: https://github.com/igabriel85/maap-python3
