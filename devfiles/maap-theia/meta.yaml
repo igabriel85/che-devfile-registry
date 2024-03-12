@@ -1,0 +1,7 @@
+displayName: MAAP Theia Python 3.10.5
+description: Python 3.10.5 sample MAAP using vanilla environment
+tags: ["IDE", "Maap"]
+icon: /images/python.svg
+globalMemoryLimit: 4096Mi
+links:
+  v2: https://github.com/igabriel85/maap-theia/tree/main
